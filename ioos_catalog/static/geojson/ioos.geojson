@@ -147,7 +147,7 @@
      {
       "type": "Feature",
       "properties": {
-        "region": "NOAA-CO-OPS"
+        "region": "NOAA CO-OPS"
       },
       "geometry": {
         "type": "Point",
@@ -173,7 +173,7 @@
     {
       "type": "Feature",
       "properties": {
-        "region": "USGS-CMGP"
+        "region": "USGS CMGP"
       },
       "geometry": {
         "type": "Point",
@@ -186,7 +186,7 @@
     {
       "type": "Feature",
       "properties": {
-        "region": "NOAA-NDBC"
+        "region": "NOAA NDBC"
       },
       "geometry": {
         "type": "Point",
@@ -199,20 +199,33 @@
     {
       "type": "Feature",
       "properties": {
-        "region": "CDIP"
+        "region": "ATN DAC"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -90,
-          -6.2
+          -69.045422,
+          -9.161629
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "region": "Glider_DAC"
+        "region": "Other"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.926057,
+          -19.798758
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "region": "Glider DAC"
       },
       "geometry": {
         "type": "Point",
@@ -225,7 +238,7 @@
     {
       "type": "Feature",
       "properties": {
-        "region": "HFradar_DAC"
+        "region": "HFradar DAC"
       },
       "geometry": {
         "type": "Point",
@@ -238,7 +251,7 @@
     {
       "type": "Feature",
       "properties": {
-        "region": "MODELING_TESTBED"
+        "region": "MODELING TESTBED"
       },
       "geometry": {
         "type": "Point",
